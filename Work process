@@ -1,4 +1,4 @@
-1.	The program declares several variables:
+1. The program declares several variables:
 •	email: a character array of size 100 to store the email address entered by the user
 •	length: an integer to store the length of the email address
 •	i: an integer used for looping through the email address
