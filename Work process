@@ -5,4 +5,4 @@
  • at_position: an integer to store the position of the '@' symbol in the email address.
  • dot_position: an integer to store the position of the '.' symbol in the email address.
 2. The program prompts the user to enter an email address using the printf function and reads in the input using the scanf function. 
-  The %s format specifier is used to read in a string of characters, which is stored in the email array.
+   The %s format specifier is used to read in a string of characters, which is stored in the email array.
