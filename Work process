@@ -10,4 +10,4 @@
 
 3. The program calculates the length of the email address using the strlen function. 
    The strlen function takes a string as input and returns the length of the string as an integer.
-4.	The program loops through each character in the email address using a for loop. The loop starts at i=0 and continues until i is equal to the length of the email address. The if statements inside the loop check if the current character is an '@' symbol or a '.' symbol, and if so, store its position in the at_position or dot_position variable, respectively.
+4. The program loops through each character in the email address using a for loop. The loop starts at i=0 and continues until i is equal to the length of the email address. The if statements inside the loop check if the current character is an '@' symbol or a '.' symbol, and if so, store its position in the at_position or dot_position variable, respectively.
