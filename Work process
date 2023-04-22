@@ -18,4 +18,4 @@ The if statements inside the loop check if the current character is an '@' symbo
 5. After the loop completes, the program checks if both the '@' and '.' symbols were found, and if so, whether they appear in the correct order and with at least one character in between them. 
 Specifically, the program checks that:
  • at_position is greater than 0, meaning that the '@' symbol appears at least once in the email address.
-• dot_position is greater than 0, meaning that the '.' symbol appears at least once in the email address
+ • dot_position is greater than 0, meaning that the '.' symbol appears at least once in the email address
