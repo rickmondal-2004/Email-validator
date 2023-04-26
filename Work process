@@ -23,5 +23,5 @@ Specifically, the program checks that:
  • dot_position is less than length - 1, meaning that the '.' symbol is not the last character in the email address.
 
 If all of these conditions are met, the program outputs a message indicating that the email address is valid. Otherwise, the program outputs a message indicating that the email address is not valid.
-6.	Finally, the program terminates by returning the value 0. This indicates that the program executed successfully.
+6. Finally, the program terminates by returning the value 0. This indicates that the program executed successfully.
 I hope this detailed breakdown helps clarify the work process of the email validator program! Let me know if you have any further questions.
