@@ -9,7 +9,7 @@ Step 2. The program prompts the user to enter an email address using the printf 
         The %s format specifier is used to read in a string of characters, which is stored in the email array.
 
 Step 3. The program calculates the length of the email address using the strlen function. 
-   The strlen function takes a string as input and returns the length of the string as an integer.
+        The strlen function takes a string as input and returns the length of the string as an integer.
 
 Step 4. The program loops through each character in the email address using a for loop. 
 The loop starts at i=0 and continues until i is equal to the length of the email address. 
