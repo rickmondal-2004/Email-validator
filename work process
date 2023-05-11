@@ -6,7 +6,7 @@ Step 1. The program declares several variables:
  • dot_position: an integer to store the position of the '.' symbol in the email address.
 
 Step 2. The program prompts the user to enter an email address using the printf function and reads in the input using the scanf function. 
-   The %s format specifier is used to read in a string of characters, which is stored in the email array.
+        The %s format specifier is used to read in a string of characters, which is stored in the email array.
 
 Step 3. The program calculates the length of the email address using the strlen function. 
    The strlen function takes a string as input and returns the length of the string as an integer.
