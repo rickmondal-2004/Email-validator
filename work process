@@ -16,7 +16,7 @@ Step 4. The program loops through each character in the email address using a fo
         The if statements inside the loop check if the current character is an '@' symbol or a '.' symbol, and if so, store its position in the at_position or dot_position variable, respectively.
 
 Step 5. After the loop completes, the program checks if both the '@' and '.' symbols were found, and if so, whether they appear in the correct order and with at least one character in between them. 
-Specifically, the program checks that:
+        Specifically, the program checks that:
  • at_position is greater than 0, meaning that the '@' symbol appears at least once in the email address.
  • dot_position is greater than 0, meaning that the '.' symbol appears at least once in the email address.
  • dot_position is greater than at_position + 1, meaning that there is at least one character between the '@' symbol and the '.' symbol.
